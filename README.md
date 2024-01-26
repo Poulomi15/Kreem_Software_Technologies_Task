@@ -15,4 +15,4 @@ This is a simple HTML and CSS project showcasing a responsive layout using CSS G
 
 ## Usage
 
-Clone the repository and open the `index.html` file in a web browser to see the layout in action.
+Clone the repository and open the `base.html` file in a web browser to see the layout in action.
